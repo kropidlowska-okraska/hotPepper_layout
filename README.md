@@ -1,1 +1,3 @@
-# hotPepper_layout
+# Description
+
+Webpage created to practice layout's cutting.
