@@ -1,0 +1,18 @@
+.main-header {
+  text-transform: uppercase;
+  font-family: $fontExtra;
+}
+
+.header-name {
+  float: left;
+}
+
+.main-nav {
+  float: right;
+
+  ul, li {
+  display: inline-block;
+  list-style: none;
+  }
+}
+
